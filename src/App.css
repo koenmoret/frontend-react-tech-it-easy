@@ -1,0 +1,30 @@
+.block {
+    display: inline-block;
+    vertical-align: bottom;
+    padding: 20px;
+    border: 1px solid gray;
+}
+.block_1 {
+    background-color: limegreen;
+}
+.block_1 h2, .block_1 h3{
+    color: green;
+}
+.block_2 {
+    margin: 0 20px;
+    background-color: cornflowerblue;
+}
+.block_2 h2, .block_2 h3{
+    color: darkblue;
+}
+.block_3 {
+    margin: 0 20px;
+    background-color: palevioletred;
+}
+.block_3 h2, .block_3 h3{
+    color: red;
+}
+.icon {
+    width: 20px;
+    height: 20px;
+}
